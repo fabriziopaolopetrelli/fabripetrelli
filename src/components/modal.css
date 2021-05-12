@@ -1,0 +1,24 @@
+.modalBody {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.modalContentText {
+  padding: 0px 40px;
+
+  /* font */
+  font: var(--text);
+}
+
+.modalContentText h1 {
+  padding: 10px 0px;
+
+  /* font */
+  font: var(--title);
+  font-size: 20px;
+  color: var(--color);
+}
+
+.modalImg {
+}
