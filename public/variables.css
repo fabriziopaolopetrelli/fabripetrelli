@@ -6,11 +6,3 @@ html {
   --title: 35px 'Chivo';
   --text: 15px 'Overpass';
 }
-
-html {
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  width: 100vh;
-  background-color: var(--color);
-}

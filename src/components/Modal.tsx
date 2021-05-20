@@ -27,7 +27,7 @@ const GreetingModal: React.FC = () => {
           <ModalCloseButton />
         </ModalHeader>
         <ModalBody className="modalBody">
-          <div className="breathc">
+          <div>
             <Image
               borderRadius="full"
               boxSize="150px"
